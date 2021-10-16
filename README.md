@@ -1,7 +1,7 @@
 # GosuslugiKids_bot
 This is the project of the telegram bot "Gosusugi Kids", which will help the child to independently enroll in the additional education section.
 ![ProjectLogo](https://github.com/lrrrtm/GosuslugiKids_bot/blob/main/ProjectLogo.png)
-
+# [Documentation](https://github.com/lrrrtm/GosuslugiKids_bot/blob/main/Documentation.pdf)
 # Authors
 [Artem Larionenko](https://github.com/lrrrtm)  
 [Arthur Suleymanov](https://github.com/EvilArthur)  
